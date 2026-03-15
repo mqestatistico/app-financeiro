@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 # Configuração da Página
 st.set_page_config(page_title="Dashboard ATCG Finance", layout="wide")
 
-st.title("📊 Monitor de Mercado")
+st.title("📊 Monitor de Mercado V001.01")
 st.markdown("---")
 
 # 1. Sidebar para Inputs
